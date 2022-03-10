@@ -13,4 +13,7 @@
 - Run command: `python deadhash.py` and use it like it tells you to.
 
 # WARNING
-- Please do not use this script for storing emails, passwords or anything needing to be hashing into a database.
+- Please do not use this script for storing emails, passwords or anything needing to be hashed into a database.
+
+# Why did I make this?
+- I made this so I can send bullshit messages to my less techy friends and say something mean about them. (Yeah I'm not a good friend right?)
